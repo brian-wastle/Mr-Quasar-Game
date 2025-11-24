@@ -1,0 +1,2 @@
+pendulumActive = false;
+startPendulum();

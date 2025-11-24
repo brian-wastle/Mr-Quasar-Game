@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"drawPolygon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawPolygon",
+  "parent":{
+    "name":"utils",
+    "path":"folders/Scripts/arcadeRacer/utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

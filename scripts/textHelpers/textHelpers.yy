@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"textHelpers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"textHelpers",
+  "parent":{
+    "name":"textEngine",
+    "path":"folders/Scripts/textEngine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"increase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"increase",
+  "parent":{
+    "name":"utils",
+    "path":"folders/Scripts/arcadeRacer/utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

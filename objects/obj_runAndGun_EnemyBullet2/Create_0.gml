@@ -1,0 +1,1 @@
+stateTimer[0] = 0;

@@ -1,0 +1,2 @@
+draw_sprite_ext(spr_TwinStickShooter_Room4Fog,0,192 + layerX.top,40,1,1,0,c_white,.3 * fogOpacity);
+draw_sprite_ext(spr_TwinStickShooter_Room4Fog,0,192 + layerX.bottom,150,1,1,0,c_white,.3 * fogOpacity);

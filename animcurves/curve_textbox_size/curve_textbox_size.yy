@@ -1,0 +1,24 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"curve_textbox_size",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"curve1","colour":4290799884,"name":"curve1","points":[
+        {"th0":-0.25,"th1":0.054156173,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":-0.19450462,"th1":0.067851126,"tv0":0.036405407,"tv1":-0.012699604,"x":0.70810246,"y":1.0379782,},
+        {"th0":-0.07543874,"th1":0.040063083,"tv0":0.00030393366,"tv1":-0.00016140938,"x":0.87083465,"y":0.96,},
+        {"th0":-0.026739955,"th1":0.25,"tv0":-0.010328412,"tv1":0.0,"x":1.0,"y":1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"curve2","colour":4278190335,"name":"curve2","points":[
+        {"th0":-0.25,"th1":0.054156173,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.0,},
+        {"th0":-0.37466246,"th1":0.25,"tv0":1.0859128,"tv1":0.0,"x":1.0,"y":0.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":2,
+  "name":"curve_textbox_size",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Animation Curves/UI.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

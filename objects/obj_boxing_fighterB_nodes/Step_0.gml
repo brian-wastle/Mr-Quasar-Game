@@ -1,0 +1,1 @@
+childNode.objectSpeed = childSpeed;

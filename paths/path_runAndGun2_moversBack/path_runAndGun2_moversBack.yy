@@ -1,0 +1,21 @@
+{
+  "$GMPath":"",
+  "%Name":"path_runAndGun2_moversBack",
+  "closed":false,
+  "kind":1,
+  "name":"path_runAndGun2_moversBack",
+  "parent":{
+    "name":"RunAndGun",
+    "path":"folders/Paths/RunAndGun.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":-276.0,"y":0.0,},
+    {"speed":100.0,"x":-320.0,"y":70.0,},
+    {"speed":100.0,"x":-276.0,"y":140.0,},
+    {"speed":100.0,"x":0.0,"y":140.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

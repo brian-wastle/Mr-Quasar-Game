@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_init_multiplayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_init_multiplayer",
+  "parent":{
+    "name":"multiplayer",
+    "path":"folders/Scripts/multiplayer.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

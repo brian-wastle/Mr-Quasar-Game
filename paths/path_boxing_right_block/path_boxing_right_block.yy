@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"path_boxing_right_block",
+  "closed":false,
+  "kind":0,
+  "name":"path_boxing_right_block",
+  "parent":{
+    "name":"Block",
+    "path":"folders/Paths/Boxing/Block.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":54.0,"y":107.0,},
+    {"speed":100.0,"x":-30.0,"y":-160.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

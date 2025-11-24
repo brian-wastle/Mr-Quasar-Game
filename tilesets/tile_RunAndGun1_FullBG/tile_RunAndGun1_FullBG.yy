@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_RunAndGun1_FullBG",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_RunAndGun1_FullBG",
+  "out_columns":36,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"RunAndGun",
+    "path":"folders/Tile Sets/RunAndGun.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_RunAndGun1_FullBG",
+    "path":"sprites/spr_RunAndGun1_FullBG/spr_RunAndGun1_FullBG.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"RunAndGunTex",
+    "path":"texturegroups/RunAndGunTex",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":108,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":108,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":1310,
+}

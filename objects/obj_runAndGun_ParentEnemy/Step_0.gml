@@ -1,0 +1,1 @@
+hitRegistered = 0; // reset flash animation state

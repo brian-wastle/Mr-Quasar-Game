@@ -1,0 +1,1 @@
+initTimer = 57;

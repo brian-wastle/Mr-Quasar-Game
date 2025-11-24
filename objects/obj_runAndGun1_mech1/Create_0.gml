@@ -1,0 +1,1 @@
+triggerEffect = 0;

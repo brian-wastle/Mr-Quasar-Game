@@ -1,0 +1,3 @@
+
+
+other.explodeState = 1;

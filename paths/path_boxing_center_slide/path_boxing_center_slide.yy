@@ -1,0 +1,19 @@
+{
+  "$GMPath":"",
+  "%Name":"path_boxing_center_slide",
+  "closed":false,
+  "kind":0,
+  "name":"path_boxing_center_slide",
+  "parent":{
+    "name":"Slide",
+    "path":"folders/Paths/Boxing/Slide.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":0.0,},
+    {"speed":100.0,"x":5.0,"y":130.0,},
+    {"speed":100.0,"x":-18.0,"y":-138.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

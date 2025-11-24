@@ -1,0 +1,38 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tile_RunAndGun2_shelvesRear",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tile_RunAndGun2_shelvesRear",
+  "out_columns":16,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"RunAndGun",
+    "path":"folders/Tile Sets/RunAndGun.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_runAndGun2_shelvesRear",
+    "path":"sprites/spr_runAndGun2_shelvesRear/spr_runAndGun2_shelvesRear.yy",
+  },
+  "spriteNoExport":true,
+  "textureGroupId":{
+    "name":"RunAndGunTex",
+    "path":"texturegroups/RunAndGunTex",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":102,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":116,
+  "tilexoff":52,
+  "tileyoff":0,
+  "tile_count":280,
+}
